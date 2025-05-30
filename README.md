@@ -104,10 +104,10 @@ This project helped us explore the differences between CNN and Transformer-based
 
 ## References
 
-1. Chen et al., "Rethinking Atrous Convolution for Semantic Image Segmentation", arXiv:1706.05587.  
-2. Xie et al., "SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers", NeurIPS 2021. 
-3. Cheng et al., "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR 2022.
-4. Lin et al., "Microsoft COCO: Common Objects in Context", ECCV 2014.
+1. Chen et al., "Rethinking Atrous Convolution for Semantic Image Segmentation", arXiv:1706.05587
+2. Xie et al., "SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers", NeurIPS 2021
+3. Cheng et al., "Masked-attention Mask Transformer for Universal Image Segmentation", CVPR 2022
+4. Lin et al., "Microsoft COCO: Common Objects in Context", ECCV 2014
 
 ---
 
